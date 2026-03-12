@@ -103,9 +103,9 @@ fetch(file)
 
 let color = "#3388ff"
 
-if(file.includes("154kv")) color = voltageColors["154"]
-if(file.includes("345kv")) color = voltageColors["345"]
-if(file.includes("765kv")) color = voltageColors["765"]
+if(file.includes("154kV")) color = voltageColors["154"]
+if(file.includes("345kV")) color = voltageColors["345"]
+if(file.includes("765kV")) color = voltageColors["765"]
 
 L.geoJSON(data,{
 
@@ -317,4 +317,5 @@ document.querySelector(".location-info").innerHTML = addr
 })
 
 }
+
 
