@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "고창변전소",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": "전철선로", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 126.799829501706881, 35.461587328997162, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": null, "Name": "고창S/S", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": null, "extrude": null, "visibility": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 126.6925319084595, 35.448461484170167, 0.0 ] } }
+]
+}

@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "조사지점_신탕정",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 20.0, "주소": "경기도 안성시 양성면 방신리 56-1", "가는길": null, "pt_no": "20" }, "geometry": { "type": "Point", "coordinates": [ 127.179307573054103, 37.034491953433161 ] } },
+{ "type": "Feature", "properties": { "fid": 23.0, "주소": "경기도 용인시 처인구 삼가동 135-34", "가는길": null, "pt_no": "23" }, "geometry": { "type": "Point", "coordinates": [ 127.165033554845579, 37.24664136326556 ] } },
+{ "type": "Feature", "properties": { "fid": 24.0, "주소": "경기도 용인시 기흥구 동백동 81-144", "가는길": null, "pt_no": "24" }, "geometry": { "type": "Point", "coordinates": [ 127.162224964507118, 37.290072281637336 ] } },
+{ "type": "Feature", "properties": { "fid": 19.0, "주소": "경기도 안성시 공도읍 마정리 380-5", "가는길": null, "pt_no": "19" }, "geometry": { "type": "Point", "coordinates": [ 127.189905232072519, 37.018637967223128 ] } },
+{ "type": "Feature", "properties": { "fid": 18.0, "주소": "경기도 안성시 공도읍 만정리 714-5", "가는길": null, "pt_no": "18" }, "geometry": { "type": "Point", "coordinates": [ 127.18036033022257, 36.997276913223317 ] } },
+{ "type": "Feature", "properties": { "fid": 17.0, "주소": "충청남도 천안시 서북구 성환읍 우신리 23-1", "가는길": null, "pt_no": "17" }, "geometry": { "type": "Point", "coordinates": [ 127.120370489355579, 36.92312735201665 ] } },
+{ "type": "Feature", "properties": { "fid": 16.0, "주소": "충청남도 천안시 서북구 직산읍 석곡리 49-5", "가는길": null, "pt_no": "16" }, "geometry": { "type": "Point", "coordinates": [ 127.096222103259919, 36.885728435312735 ] } },
+{ "type": "Feature", "properties": { "fid": 15.0, "주소": "충청남도 아산시 음봉면 산동리 889-1", "가는길": null, "pt_no": "15" }, "geometry": { "type": "Point", "coordinates": [ 127.087496795811632, 36.847283040324022 ] } },
+{ "type": "Feature", "properties": { "fid": 14.0, "주소": "충청남도 아산시 음봉면 덕지리 84-1", "가는길": null, "pt_no": "14" }, "geometry": { "type": "Point", "coordinates": [ 127.086845107086475, 36.832545389874092 ] } },
+{ "type": "Feature", "properties": { "fid": 12.0, "주소": "충청남도 아산시 음봉면 소동리 17-5", "가는길": null, "pt_no": "12" }, "geometry": { "type": "Point", "coordinates": [ 127.051389077912049, 36.866295545916117 ] } },
+{ "type": "Feature", "properties": { "fid": 8.0, "주소": "경기도 평택시 안중읍 금곡리 205-14", "가는길": null, "pt_no": "8" }, "geometry": { "type": "Point", "coordinates": [ 126.961105100239919, 37.004770841750371 ] } },
+{ "type": "Feature", "properties": { "fid": 4.0, "주소": "경기도 화성시 만세구 향남읍 도이리 316-4", "가는길": null, "pt_no": "4" }, "geometry": { "type": "Point", "coordinates": [ 126.941488526080306, 37.138704577142477 ] } },
+{ "type": "Feature", "properties": { "fid": 3.0, "주소": "경기도 화성시 효행구 봉담읍 상기리 408-3", "가는길": null, "pt_no": "3" }, "geometry": { "type": "Point", "coordinates": [ 126.925529128885259, 37.200222611675827 ] } },
+{ "type": "Feature", "properties": { "fid": 2.0, "주소": "경기도 화성시 효행구 매송면 숙곡리 705-11", "가는길": null, "pt_no": "2" }, "geometry": { "type": "Point", "coordinates": [ 126.899476392709232, 37.24822559123519 ] } },
+{ "type": "Feature", "properties": { "fid": 1.0, "주소": "경기도 화성시 효행구 매송면 송라리 381", "가는길": null, "pt_no": "1" }, "geometry": { "type": "Point", "coordinates": [ 126.896957563267961, 37.281361110308538 ] } },
+{ "type": "Feature", "properties": { "fid": 25.0, "주소": "경기도 성남시 분당구 석운동 63-6", "가는길": null, "pt_no": "25" }, "geometry": { "type": "Point", "coordinates": [ 127.045618268250308, 37.374591283622351 ] } },
+{ "type": "Feature", "properties": { "fid": 5.0, "주소": "경기도 화성시 만세구 향남읍 백토리 470", "가는길": null, "pt_no": "5" }, "geometry": { "type": "Point", "coordinates": [ 126.93972079476525, 37.122826405228309 ] } },
+{ "type": "Feature", "properties": { "fid": 6.0, "주소": "경기도 평택시 청북읍 한산리 630-2", "가는길": null, "pt_no": "6" }, "geometry": { "type": "Point", "coordinates": [ 126.963942819252139, 37.045796944289201 ] } },
+{ "type": "Feature", "properties": { "fid": 7.0, "주소": "경기도 평택시 오성면 양교리 652-9", "가는길": null, "pt_no": "7" }, "geometry": { "type": "Point", "coordinates": [ 126.965765477470228, 37.023010704643049 ] } },
+{ "type": "Feature", "properties": { "fid": 9.0, "주소": "경기도 평택시 안중읍 금곡리 103-1", "가는길": null, "pt_no": "9" }, "geometry": { "type": "Point", "coordinates": [ 126.958430469204345, 36.995933814396132 ] } },
+{ "type": "Feature", "properties": { "fid": 10.0, "주소": "충청남도 아산시 둔포면 신남리 1158-4", "가는길": null, "pt_no": "10" }, "geometry": { "type": "Point", "coordinates": [ 127.018813714252232, 36.907544137371907 ] } },
+{ "type": "Feature", "properties": { "fid": 11.0, "주소": "충청남도 아산시 둔포면 봉재리 357-2", "가는길": null, "pt_no": "11" }, "geometry": { "type": "Point", "coordinates": [ 127.029504306945498, 36.878343492745039 ] } },
+{ "type": "Feature", "properties": { "fid": 13.0, "주소": "충청남도 아산시 음봉면 동암리 171", "가는길": null, "pt_no": "13" }, "geometry": { "type": "Point", "coordinates": [ 127.059221454728743, 36.845795943592755 ] } },
+{ "type": "Feature", "properties": { "fid": 22.0, "주소": "경기도 용인시 처인구 이동읍 천리 506-7", "가는길": null, "pt_no": "22" }, "geometry": { "type": "Point", "coordinates": [ 127.208292129926619, 37.212307117290877 ] } },
+{ "type": "Feature", "properties": { "fid": 21.0, "주소": "경기도 용인시 처인구 이동읍 묵리 392-1", "가는길": null, "pt_no": "21" }, "geometry": { "type": "Point", "coordinates": [ 127.247104784755408, 37.162983618676847 ] } }
+]
+}
