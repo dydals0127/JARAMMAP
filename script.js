@@ -80,11 +80,11 @@ popupAnchor: [0,-20]
 //////////////////////////////
 
 var geojsonFiles = [
-"data/154kv 라인.geojson",
-"data/154kv 명칭.geojson",
-"data/345kv 라인.geojson",
-"data/345kv 명칭.geojson",
-"data/765kv 라인.geojson",
+"data/154kv라인.geojson",
+"data/154kv명칭.geojson",
+"data/345kv라인.geojson",
+"data/345kv명칭.geojson",
+"data/765kv라인.geojson",
 "data/가공_신탕정.geojson",
 "data/고창변전소.geojson",
 "data/신탕정변전소.geojson",
@@ -317,3 +317,4 @@ document.querySelector(".location-info").innerHTML = addr
 })
 
 }
+
