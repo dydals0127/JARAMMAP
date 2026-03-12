@@ -58,7 +58,7 @@ var voltageColors = {
 //////////////////////////////
 
 var substationIcon = L.icon({
-iconUrl: "icons/battery_10952976.png",
+iconUrl: "battery_10952976.png",
 iconSize: [28,28],
 iconAnchor: [14,14],
 popupAnchor: [0,-10]
@@ -69,7 +69,7 @@ popupAnchor: [0,-10]
 //////////////////////////////
 
 var locationIcon = L.icon({
-iconUrl: "icons/location.png",
+iconUrl: "location.png",
 iconSize: [26,26],
 iconAnchor: [13,26],
 popupAnchor: [0,-20]
@@ -80,11 +80,11 @@ popupAnchor: [0,-20]
 //////////////////////////////
 
 var geojsonFiles = [
-"154kv 라인.geojson",
-"154kv 명칭.geojson",
-"345kv 라인.geojson",
-"345kv 명칭.geojson",
-"765kv 라인.geojson",
+"154kV라인.geojson",
+"154kV명칭.geojson",
+"345kV라인.geojson",
+"345kV명칭.geojson",
+"765kV라인.geojson",
 "가공_신탕정.geojson",
 "고창변전소.geojson",
 "신탕정변전소.geojson",
@@ -317,3 +317,4 @@ document.querySelector(".location-info").innerHTML = addr
 })
 
 }
+
