@@ -169,8 +169,8 @@ return div
 legend.addTo(map)
 
 Promise.all([
-fetch("sido.geojson").then(r=>r.json()),
-fetch("sig.geojson").then(r=>r.json())
+shp("sido.zip"),
+shp("sig.zip")
 ]).then(([sidoData,sigData])=>{
 
     
@@ -317,5 +317,6 @@ document.querySelector(".location-info").innerHTML = addr
 })
 
 }
+
 
 
