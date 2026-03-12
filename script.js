@@ -80,15 +80,15 @@ popupAnchor: [0,-20]
 //////////////////////////////
 
 var geojsonFiles = [
-"data/154kv라인.geojson",
-"data/154kv명칭.geojson",
-"data/345kv라인.geojson",
-"data/345kv명칭.geojson",
-"data/765kv라인.geojson",
-"data/가공_신탕정.geojson",
-"data/고창변전소.geojson",
-"data/신탕정변전소.geojson",
-"data/조사지점_신탕정.geojson"
+"154kv 라인.geojson",
+"154kv 명칭.geojson",
+"345kv 라인.geojson",
+"345kv 명칭.geojson",
+"765kv 라인.geojson",
+"가공_신탕정.geojson",
+"고창변전소.geojson",
+"신탕정변전소.geojson",
+"조사지점_신탕정.geojson"
 ]
 
 //////////////////////////////
@@ -169,8 +169,8 @@ return div
 legend.addTo(map)
 
 Promise.all([
-fetch("data/sido.geojson").then(r=>r.json()),
-fetch("data/sig.geojson").then(r=>r.json())
+fetch("sido.geojson").then(r=>r.json()),
+fetch("sig.geojson").then(r=>r.json())
 ]).then(([sidoData,sigData])=>{
 
     
@@ -317,4 +317,3 @@ document.querySelector(".location-info").innerHTML = addr
 })
 
 }
-
