@@ -1,0 +1,56 @@
+[
+  {
+    "file": "154kV 라인.geojson",
+    "color": "blue",
+    "name": "154kV 라인"
+  },
+  {
+    "file": "345kV 라인.geojson",
+    "color": "red",
+    "name": "345kV 라인"
+  },
+ {
+    "file": "765kV 라인.geojson",
+    "color": "green",
+    "name": "765kV 라인"
+ },
+
+
+   {
+    "file": "154kV 명칭.geojson",
+    "color": "blue",
+    "name": "154kV 명칭",
+     "fields": ["Text"]
+ },
+   {
+    "file": "345kV 명칭.geojson",
+    "color": "red",
+    "name": "345kV 명칭",
+     "fields": ["Text"]
+ },
+
+  {
+    "file": "고창변전소.geojson",
+    "color": "#00f1ff",
+    "name": "고창변전소",
+    "fields": ["Name"]
+  },
+  {
+    "file": "신탕정변전소.geojson",
+    "color": "#00f1ff",
+    "name": "신탕정변전소",
+    "fields": ["Name"]
+  },
+
+{
+    "file": "가공_신탕정.geojson",
+    "color": "#23c7ec",
+    "name": "가공_신탕정"
+  },
+{
+    "file": "조사지점_신탕정.geojson",
+    "color": "yellow",
+    "name": "조사지점_신탕정",
+    "fields": ["fid", "주소"] 
+  }
+]
